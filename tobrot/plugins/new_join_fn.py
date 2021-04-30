@@ -25,6 +25,6 @@ async def help_message_f(client, message):
     # display the /help
 
     await message.reply_text(
-        """<b>Hi I'M Stream Leecher</b>""",
+        """<b></b>""",
         disable_web_page_preview=True,
     )
